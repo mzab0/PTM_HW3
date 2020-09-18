@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="book_categories">
+        <item>Fantasy</item>
+        <item>Action</item>
+        <item>Horror</item>
+        <item>Historical</item>
+        <item>Classics</item>
+    </string-array>
+</resources>
